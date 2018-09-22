@@ -4,6 +4,15 @@ This is the starter template for the final assessment project for Udacity's Reac
 
 Of course, you are free to start this project from scratch if you wish! Just be sure to use [Create React App](https://github.com/facebookincubator/create-react-app) to bootstrap the project.
 
+## Resources Consulted During Project Design
+
+1. Study Jam 21/07 - FEND P7 - My Reads - Walkthrough video by Maeva NAP
+https://www.youtube.com/watch?v=i6L2jLHV9j8
+
+2. Udacity FEND book-app-react - Walkthrough video by Edoh Kodjo
+https://www.youtube.com/watch?v=PF8fCAKR0-I&feature=youtu.be
+    
+
 ## TL;DR
 
 To get started developing right away:
